@@ -1,2 +1,4 @@
 *.h5
 /clothing-dataset-small/
+practice.ipynb
+*.keras
