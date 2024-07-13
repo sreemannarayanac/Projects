@@ -1,0 +1,23 @@
+digest: 8e4818b2
+name: dataset
+profile: '{"num_rows": 367, "num_elements": 7707}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "ApplicantIncome", "required":
+  true}, {"type": "long", "name": "CoapplicantIncome", "required": true}, {"type":
+  "double", "name": "LoanAmount", "required": true}, {"type": "double", "name": "Loan_Amount_Term",
+  "required": true}, {"type": "double", "name": "Credit_History", "required": true},
+  {"type": "double", "name": "LoanAmount_log", "required": true}, {"type": "boolean",
+  "name": "Gender_Female", "required": true}, {"type": "boolean", "name": "Gender_Male",
+  "required": true}, {"type": "boolean", "name": "Married_No", "required": true},
+  {"type": "boolean", "name": "Married_Yes", "required": true}, {"type": "boolean",
+  "name": "Dependents_0", "required": true}, {"type": "boolean", "name": "Dependents_1",
+  "required": true}, {"type": "boolean", "name": "Dependents_2", "required": true},
+  {"type": "boolean", "name": "Dependents_3+", "required": true}, {"type": "boolean",
+  "name": "Education_Graduate", "required": true}, {"type": "boolean", "name": "Education_Not
+  Graduate", "required": true}, {"type": "boolean", "name": "Self_Employed_No", "required":
+  true}, {"type": "boolean", "name": "Self_Employed_Yes", "required": true}, {"type":
+  "boolean", "name": "Property_Area_Rural", "required": true}, {"type": "boolean",
+  "name": "Property_Area_Semiurban", "required": true}, {"type": "boolean", "name":
+  "Property_Area_Urban", "required": true}]}'
+source: '{"tags": {"mlflow.user": "LENOVO", "mlflow.source.name": "c:\\Users\\LENOVO\\anaconda3\\envs\\mlflow\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

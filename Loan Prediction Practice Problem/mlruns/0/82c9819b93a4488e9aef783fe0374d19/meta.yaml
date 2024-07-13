@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Data%20Science/Projects/Loan%20Prediction%20Practice%20Problem/mlruns/0/82c9819b93a4488e9aef783fe0374d19/artifacts
+end_time: 1720879469948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82c9819b93a4488e9aef783fe0374d19
+run_name: Logistic Regression Stratified K-Folds
+run_uuid: 82c9819b93a4488e9aef783fe0374d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720879412151
+status: 3
+tags: []
+user_id: LENOVO

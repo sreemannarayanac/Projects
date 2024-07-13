@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Data%20Science/Projects/Loan%20Prediction%20Practice%20Problem/mlruns/0/26763cf291d744dcb9f0d47e39a0ca8e/artifacts
+end_time: 1720879703381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26763cf291d744dcb9f0d47e39a0ca8e
+run_name: sedate-panda-228
+run_uuid: 26763cf291d744dcb9f0d47e39a0ca8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720879589909
+status: 3
+tags: []
+user_id: LENOVO

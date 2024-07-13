@@ -1,0 +1,16 @@
+artifact_uri: file:///e:/Data%20Science/Projects/Loan%20Prediction%20Practice%20Problem/mlruns/0/2c878b07ef444a509a1c27d73ef8e8ef/artifacts
+deleted_time: 1720879906678
+end_time: 1720879274235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2c878b07ef444a509a1c27d73ef8e8ef
+run_name: Logistic Regression
+run_uuid: 2c878b07ef444a509a1c27d73ef8e8ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720879274027
+status: 4
+tags: []
+user_id: LENOVO

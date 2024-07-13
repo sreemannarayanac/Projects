@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+mlflow==2.14.1
+pynvml

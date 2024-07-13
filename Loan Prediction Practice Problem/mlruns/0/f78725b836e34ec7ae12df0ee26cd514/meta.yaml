@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Data%20Science/Projects/Loan%20Prediction%20Practice%20Problem/mlruns/0/f78725b836e34ec7ae12df0ee26cd514/artifacts
+end_time: 1720879703381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f78725b836e34ec7ae12df0ee26cd514
+run_name: adaptable-wasp-256
+run_uuid: f78725b836e34ec7ae12df0ee26cd514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720879589909
+status: 3
+tags: []
+user_id: LENOVO

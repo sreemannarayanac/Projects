@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Data%20Science/Projects/Loan%20Prediction%20Practice%20Problem/mlruns/0/545007729a064fc4b5b447c133ae38d4/artifacts
+end_time: 1720879589735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 545007729a064fc4b5b447c133ae38d4
+run_name: Random Forest Classifier
+run_uuid: 545007729a064fc4b5b447c133ae38d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720879527808
+status: 3
+tags: []
+user_id: LENOVO
