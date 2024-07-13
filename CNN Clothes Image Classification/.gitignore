@@ -2,3 +2,5 @@
 /clothing-dataset-small/
 practice.ipynb
 *.keras
+*.jpg
+*.tflite
