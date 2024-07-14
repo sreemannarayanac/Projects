@@ -1,6 +1,5 @@
-pandas
-numpy
-scikit-learn
-matplotlib
+pandas==2.2.2
+numpy==1.23.5
+scikit-learn==1.2.2
 mlflow==2.14.1
-pynvml
+streamlit==1.36.0
