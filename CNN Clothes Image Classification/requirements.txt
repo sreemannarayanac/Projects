@@ -1,3 +1,4 @@
-tensorflow==2.10.0
+tensorflow
 streamlit==1.36.0
 numpy==1.23.5
+protobuf==3.20.0

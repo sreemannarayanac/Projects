@@ -1,0 +1,24 @@
+# Name of the image group created by docker compose up
+# The name of the image group is the name of the folder where the docker-compose.yaml file is present (Projects)
+
+version: '3.8'
+
+# Services are the containers that will be created
+# Each service will have its own container
+
+services:
+  app1:
+    build: './CNN Clothes Image Classification'
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./CNN Clothes Image Classification:/app
+    command: streamlit run main.py
+  
+  app2:
+    build: './Loan Prediction Practice Problem'
+    ports:
+      - "8502:8502"
+    volumes:
+      - ./Loan Prediction Practice Problem:/app
+    command: streamlit run main.py --server.port=8502
